@@ -23,3 +23,5 @@ Port Folio:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokoabassplayer&theme=onedark" />
 </a>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="th_TH" data-type="horizontal" data-theme="light" data-vanity="kokoabassplayer"><a class="LI-simple-link" href='https://th.linkedin.com/in/kokoabassplayer?trk=profile-badge'>Nuttapong Buttprom</a></div>
