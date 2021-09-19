@@ -1,7 +1,5 @@
 ### Here is What I'm Working On! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as ... BI Developer and play in a music band as a bassist
 - 🌱 I’m currently learning ... Data Science at [DataCamp](https://www.datacamp.com/profile/kokoabassplayer)
 - 👯 I’m looking to collaborate on ... Any Tech company to hire me
