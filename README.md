@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... AI
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... <a href="mailto:kokoabassplayer@gmail.com">Send mail</a>, [Linkedin](https://www.linkedin.com/in/kokoabassplayer/), [Facebook](https://www.facebook.com/KokoaBassPlayer), [Instagram](https://www.instagram.com/kokoabassplayer_rubikk/), [twitter](https://twitter.com/KokoABassPlayer), [Resume](https://www.canva.com/design/DAEBrLjlWZY/wG2e_4HDzDM1lsYUFcDJTg/view?utm_content=DAEBrLjlWZY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-- 😄 Pronouns: ... He/His
+- 😄 Pronouns: ... He
 - ⚡ Fun fact: ... I am also work as a [Professional Musician (Bassist)](https://www.youtube.com/playlist?list=PL-0_Mdj1Pf1x1XXVbmg6a2_VUaky-INR1) in Thailand
 
 Port Folio: 
